@@ -1,8 +1,8 @@
 # About Me
 
-Hello! I am IchHabeHunger54, or IHH54 for short. I am currently 19 years old and live in Austria.
+Hello! I am IchHabeHunger54, or IHH54 for short. I am currently 20 years old and live in Austria.
 
-I'm currently studying computer science at the Technical University of Vienna. I also make Minecraft mods, as well as trying other fields, such as music production and video editing. My main language is Java, I know a few other languages such as Python, C#, JavaScript or Haskell as well.
+I'm currently studying computer science at the Technical University of Vienna. I also make Minecraft mods, as well as trying other fields, such as music production and video editing. My main language is Java, I know a few other languages such as Python, C#, JavaScript, PHP or Haskell as well.
 
 I am a proud member of the [NeoForged](https://github.com/neoforged) project as a moderator, and I have contributed to its [documentation](https://github.com/neoforged/Documentation) in the past.
 
